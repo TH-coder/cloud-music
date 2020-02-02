@@ -1,12 +1,12 @@
 import React from 'react';
 
-function Recommend () {
+function Singers () {
 
   return (
     <div>
-      <div>Recommend</div>
+      <div>Singers</div>
     </div>
   )
 }
 
-export default React.memo (Recommend);
+export default React.memo (Singers);
